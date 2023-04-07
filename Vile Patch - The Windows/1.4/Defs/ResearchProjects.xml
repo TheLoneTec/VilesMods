@@ -18,7 +18,7 @@
 		<defName>AdvancedGlassworks</defName>
 		<label>security glass</label>
 		<description>Construct windows made of crytalized plasteel, equally as strong as the walls themselves.</description>
-		<techLevel>Industrial</techLevel>
+		<techLevel>Spacer</techLevel>
 		<baseCost>2000</baseCost>
 		<researchViewX>18</researchViewX>
 		<researchViewY>3</researchViewY>
